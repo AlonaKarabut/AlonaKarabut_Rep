@@ -5,6 +5,11 @@ alice_in_wonderland = ('"Would you tell me, please, which way I ought to go from
                        '"—— so long as I get somewhere," Alice added as an explanation.\n'
                        '"Oh, you\'re sure to do that," said the Cat, "if you only walk long enough."\n')
 print("task 01-03")
+
+for apostrophy in alice_in_wonderland:
+    if apostrophy == "'":
+        print(apostrophy)
+
 print(alice_in_wonderland)
 # task 01 == Розділіть змінну alice_in_wonderland так, щоб вона займала декілька фізичних лінії
 # task 02 == Знайдіть та відобразіть всі символи одинарної лапки (') у тексті
