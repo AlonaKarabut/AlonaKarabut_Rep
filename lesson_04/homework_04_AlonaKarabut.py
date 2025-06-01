@@ -76,7 +76,12 @@ print("Позиція, на якій слово Tom зустрічається �
 """
 print("\ntask 07")
 
-adwentures_of_tom_sawer_sentences = re.split(r'(?<=[.!?]) +', adwentures_of_tom_sawer)
+adwentures_of_tom_sawer_sentences1 = adwentures_of_tom_sawer.split("." or "!" or "?")
+adwentures_of_tom_sawer_sentences = []
+for sentence in adwentures_of_tom_sawer_sentences1:
+    if sentence != "":
+        cutspaces = sentence.strip()
+        adwentures_of_tom_sawer_sentences.append(cutspaces)
 print(adwentures_of_tom_sawer_sentences)
 
 # task 08
