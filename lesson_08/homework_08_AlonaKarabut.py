@@ -7,21 +7,19 @@
 
 
 def sumStringNumbers():
-    try:
-        listWithStrings = ["1,2,3,4", "1,2,3,4,50", "qwerty1,2,3"]
-        newList = []
-        for string in listWithStrings:
-            string = string.split(",")
-            l = []
-            for number in string:
-                number1 = int(number)
-                l.append(number1)
-                result = sum(l)
-        newList.append(result)
-    except Exception:
-        newList.append("Не можу це зробити")
-    finally:
-        print(newList)
+    """Функція обробляє список рядків, де числа розділені комами.
+    Для кожного елемента обчислює суму чисел.
+    Якщо рядок містить нечислові символи — виводить 'Не можу це зробити!'."""
+    listWithStrings = ["1,2,3,4", "1,2,3,4,50", "qwerty1,2,3"]
+    newList = []
 
+    for string in listWithStrings:
+        try:
+            numbers = [int(x) for x in string.split(",")]
+            newList.append(sum(numbers))
+        except ValueError:
+            newList.append("Не можу це зробити!")
 
-sumStringNumbers()
+    return newList
+
+print(sumStringNumbers())
