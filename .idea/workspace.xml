@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2febd6b5-ccb4-4706-9210-865d903db13f" name="Changes" comment="" />
+    <list default="true" id="2febd6b5-ccb4-4706-9210-865d903db13f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,57 +34,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Iter, Gen, Dec, LEGB.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hometask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_08_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_13_AlonaKarabut_csv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_13_AlonaKarabut_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_13_AlonaKarabut_xml.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_14_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_15_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_16_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_17_1_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_17_2_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_18_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_19_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_20_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_21_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_23_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework_24_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.log_event_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myExamples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz_shakespeare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.registration_form.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_cars_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_hometask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_homework_12_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_homework_23_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_homework_24_AlonaKarabut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_homeworks08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_homeworks08_Pytest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_quiz_shakespeare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_unittest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_page.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;requirements&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alen4/AlonaKarabut_Rep/lesson_23&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Iter, Gen, Dec, LEGB.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python._pydev_execfile.executor": "Debug",
+    "Python.app (1).executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.hometask.executor": "Run",
+    "Python.homework_08_AlonaKarabut.executor": "Run",
+    "Python.homework_13_AlonaKarabut_csv.executor": "Run",
+    "Python.homework_13_AlonaKarabut_json.executor": "Run",
+    "Python.homework_13_AlonaKarabut_xml.executor": "Run",
+    "Python.homework_14_AlonaKarabut.executor": "Run",
+    "Python.homework_15_AlonaKarabut.executor": "Run",
+    "Python.homework_16_AlonaKarabut.executor": "Run",
+    "Python.homework_17_1_AlonaKarabut.executor": "Run",
+    "Python.homework_17_2_AlonaKarabut.executor": "Run",
+    "Python.homework_18_AlonaKarabut.executor": "Run",
+    "Python.homework_19_AlonaKarabut.executor": "Run",
+    "Python.homework_20_AlonaKarabut.executor": "Run",
+    "Python.homework_21_AlonaKarabut.executor": "Run",
+    "Python.homework_23_AlonaKarabut.executor": "Run",
+    "Python.homework_24_AlonaKarabut.executor": "Run",
+    "Python.log_event_module.executor": "Run",
+    "Python.myExamples.executor": "Run",
+    "Python.new test.executor": "Run",
+    "Python.quiz_shakespeare.executor": "Run",
+    "Python.registration_form.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_cars_api.executor": "Run",
+    "Python.test_conftest.executor": "Run",
+    "Python.test_hometask.executor": "Run",
+    "Python.test_homework_12_AlonaKarabut.executor": "Run",
+    "Python.test_homework_23_AlonaKarabut.executor": "Run",
+    "Python.test_homework_24_AlonaKarabut.executor": "Run",
+    "Python.test_homeworks08.executor": "Run",
+    "Python.test_homeworks08_Pytest.executor": "Run",
+    "Python.test_quiz_shakespeare.executor": "Run",
+    "Python.test_unittest.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.user_page.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/alen4/AlonaKarabut_Rep/lesson_23",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alen4\AlonaKarabut_Rep\lesson_23" />
