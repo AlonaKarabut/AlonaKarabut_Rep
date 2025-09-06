@@ -1,0 +1,4 @@
+2025-08-13 19:32:26,111 - INFO - Починаємо тестування сервера з авторизацією через params...
+2025-08-13 19:32:26,118 - INFO - Upload успішний: {'image_url': 'http://127.0.0.1:8080/uploads/example.jpeg'}
+2025-08-13 19:32:26,121 - INFO - GET image успішний: {'image_url': 'http://127.0.0.1:8080/uploads/example.jpeg'}
+2025-08-13 19:32:26,124 - INFO - DELETE image успішний: {'message': 'Image example.jpeg deleted'}
